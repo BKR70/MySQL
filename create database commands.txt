@@ -1,0 +1,8 @@
+# to create a new database
+CREATE DATABASE database_name;
+
+# for show all created databases
+SHOW DATABASES;
+
+# Switching to Your New Database
+USE database_name;
